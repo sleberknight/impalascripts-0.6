@@ -1,0 +1,2 @@
+select distinct cd_credit_rating
+from customer_demographics;
